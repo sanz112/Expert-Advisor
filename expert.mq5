@@ -56,7 +56,7 @@ public:
   };
 
 //---
-input string InpChannelName="@wittstackchannel";//Channel Name
+input string InpChannelNamee="@wittstackchannel";//Channel Name
 input string InpToken="TELEGRAM_TOKEN";//Token
 //---
 CMyBot bot;
